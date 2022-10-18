@@ -4,7 +4,7 @@
 
 Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrared Small Target Detection''. 
 ## *Highlights:*
-* we first formulate an implicit regularizer by plugging a denoising neural network (termed as deep denoiser), which can learn deep image priors from a large number of natural images.
+* We first formulate an implicit regularizer by plugging a denoising neural network (termed as deep denoiser), which can learn deep image priors from a large number of natural images.
 * Then, we use the weighted sum of weighted tensor nuclear norm for more accurate background estimation. 
 * Finally, alternating direction multiplier method is used to solve the model under the plug-and-play framework. By integrating low-rank prior with deep denoiser prior, our model achieves higher accuracy. Experiments on different scenes demonstrate that our method achieves an improved performance in terms of visual effects and quantitative metrics.
 
