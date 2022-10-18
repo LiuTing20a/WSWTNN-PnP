@@ -25,8 +25,7 @@ Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrar
 
 * Code for PSTNN method can be found at https://github.com/Lanneeee.
 
-* Code for NTFRA mathod can be found at https://github.com/Electromagnetism-dog-technology/Infrared-Small-Target-Detection-via-Nonconvex-Tensor-Fibered-Rank- Approximation
-
+* Code for NTFRA mathod can be found at https://github.com/Electromagnetism-dog-technology/Infrared-Small-Target-Detection-via-Nonconvex-Tensor-Fibered-Rank-Approximation
 * Many papers, codes and datasets of existing infrared small target detection methods can be found at https://github.com/Tianfang-Zhang/awesome-infrared-small-targets.
 
 * Note: If you used the above codes, please cite the relevant paper.
