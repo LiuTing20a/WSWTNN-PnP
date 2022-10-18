@@ -12,6 +12,9 @@ Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrar
 * For computers with different performance and different versions of matlab, the CUDA version should be different. You need to select the version of CUDA and CUDNN according to your computer.
 * For more details about code reproduction, please see the document in Baidu's online disk. 
 
+## Test on the data:
+* Run `Demo_WSWTNN_PnP.m` to perform test on data.
+* The experimnet result files will be saved to `./results/`.
 
 
 
