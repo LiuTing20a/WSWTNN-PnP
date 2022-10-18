@@ -30,13 +30,8 @@ Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrar
 
 * Note: If you used the above codes, please cite the relevant paper.
 
-
-
-
-
-
-
-#### 2. *To demonstrate the advantages of the WSWTNN-PnP method, we compare it with other ten methods on six different real infrared image scenes.*
+## Results:
+### 2. *To demonstrate the advantages of the WSWTNN-PnP method, we compare it with other ten methods on six different real infrared image scenes.*
 
 <p align="center"> <img src="https://raw.github.com/LiuTing20a/WSWTNN-PnP1/master/Figs/2.jpg" width="90%"> </p>
 <p align="center"> <img src="https://raw.github.com/LiuTing20a/WSWTNN-PnP1/master/Figs/3.jpg" width="90%"> </p>
