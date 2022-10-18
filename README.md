@@ -8,7 +8,7 @@ Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrar
 
 ## Preparation:
 #### 1. Requirement:
-* PyTorch 1.3.0, torchvision 0.4.1. The code is tested with python=3.6, cuda=9.0.
+* Matlab 2018a, Matconvnet, Visual Studio 2015, CUDA 9.0, CUDNN v7.6.5.
 * Matlab for training/test data generation and performance evaluation.
 
 
