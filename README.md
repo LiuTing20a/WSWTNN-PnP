@@ -1,6 +1,6 @@
 # WSWTNN-PnP：Combining Deep Denoiser and Low-rank Priors for Infrared Small Target Detection
 
-<p align="center"> <img src="https://raw.github.com/LiuTing20a/WSWTNN-PnP1/master/Figs/1.jpg" width="90%"> </p>
+<p align="center"> <img src="https://raw.github.com/LiuTing20a/WSWTNN-PnP1/master/Figs1/1.png" width="90%"> </p>
 
 Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrared Small Target Detection''. 
 ## *Highlights:*
@@ -33,6 +33,6 @@ Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrar
 ## Results:
 *To demonstrate the advantages of the WSWTNN-PnP method, we compare it with other ten methods on six different real infrared image scenes.*
 
-<p align="center"> <img src="https://raw.github.com/LiuTing20a/WSWTNN-PnP1/master/Figs/2.jpg" width="90%"> </p>
-<p align="center"> <img src="https://raw.github.com/LiuTing20a/WSWTNN-PnP1/master/Figs/3.jpg" width="90%"> </p>
+<p align="center"> <img src="https://raw.github.com/LiuTing20a/WSWTNN-PnP1/master/Figs1/2.png" width="90%"> </p>
+<p align="center"> <img src="https://raw.github.com/LiuTing20a/WSWTNN-PnP1/master/Figs1/3.png" width="90%"> </p>
 
