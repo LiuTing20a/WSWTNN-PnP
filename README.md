@@ -8,7 +8,7 @@ Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrar
 
 ## Preparation:
 #### 1. Requirement:
-* Matlab 2018a, Matconvnet, Visual Studio 2015, CUDA 9.0, CUDNN v7.6.5.
+* Matlab 2018a, Matconvnet, Visual Studio 2015, CUDA 9.0, CUDNN v7.6.5, Windows 10, Intel Core i7-10870H CPU (2.20 GHz), RTX 2060.
 * Matlab for training/test data generation and performance evaluation.
 
 
