@@ -12,7 +12,7 @@ Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrar
 #### 1. Requirement:
 * Matlab 2018a, Matconvnet, Visual Studio 2015, CUDA 9.0, CUDNN v7.6.5, Windows 10, Intel Core i7-10870H CPU (2.20 GHz), RTX 2060.
 * For computers with different performance and different versions of matlab, the CUDA version should be different. You need to select the version of CUDA and CUDNN according to your computer.
-* For more details about code reproduction, please see the document in [Baidu Yun] https://pan.baidu.com/s/1mPIl5XlYumnRwBC1zqudAA, and the key is 0640.
+* For more details about code reproduction, please see the document in https://liuting20a.github.io/WSWTNN-PnP/instructions.pdf
 
 ## Test on the data:
 * Run `Demo_WSWTNN_PnP.m` to perform test on data.
