@@ -39,6 +39,9 @@ Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrar
 ### Ablation Experiments 
 <p align="center"> <img src="https://raw.github.com/LiuTing20a/WSWTNN-PnP1/master/Figs1/4.jpg" width="90%"> </p>
 
+## Details
+For details such as parameter setting, please refer to [<a href="https://doi.org/10.1016/j.patcog.2022.109184">pdf</a>].
+
 ## Citation
 
 ```
