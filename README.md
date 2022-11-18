@@ -42,7 +42,14 @@ Matlab implementation of "Combining Deep Denoiser and Low-rank Priors for Infrar
 ## Citation
 
 ```
-Combining Deep Denoiser and Low-rank Priors for Infrared Small Target Detection
+@article{liu2022combining,
+  title={Combining Deep Denoiser and Low-rank Priors for Infrared Small Target Detection},
+  author={Liu, Ting and Yin, Qian and Yang, Jungang and Wang, Yingqian and An, Wei},
+  journal={Pattern Recognition},
+  pages={109184},
+  year={2022},
+  publisher={Elsevier}
+}
 ```
 ## Contact
 **Welcome to raise issues or email to liuting@nudt.edu.cn for any question regarding this work.**
